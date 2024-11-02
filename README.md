@@ -8,7 +8,7 @@ DeepSIM is a generative adversarial network (GAN) trained using only one pair of
 ![Transformed images](https://res.cloudinary.com/vincent1bt/image/upload/v1637620326/example_paper_1_kfocfw.jpg)
 > Label and input images after the TPS transformation
 
-You can read more about TPS and the DeepSIM Gan in [this blog post](https://vincentblog.xyz/posts/thin-plate-splines-and-its-implementation-as-data-augmentation-technique).
+You can read more about TPS and the DeepSIM Gan in [this blog post](https://vincentblog.link/posts/thin-plate-splines-and-its-implementation-as-data-augmentation-technique).
 
 The TPS augmentation implementation is inside *data_generator/data_utils.py*.
 
